@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: hsl(0, 52%, 70%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    
+}
+.additional-style {
+    font-size: 24px;
+}
+
+#second-el {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#forth-el {
+    background-color: rgb(137, 192, 137);
+    font-weight: bold;
+}
